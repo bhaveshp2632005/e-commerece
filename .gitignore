@@ -1,0 +1,21 @@
+# IDEs
+.vscode/
+.idea/
+.sixth/
+
+# Node
+node_modules/
+dist/
+
+# Maven/Java
+target/
+*.class
+*.jar
+*.war
+
+# Environment Variables
+.env
+.env.local
+
+# Mistake folders
+{backend/
